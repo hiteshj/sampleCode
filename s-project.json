@@ -1,0 +1,20 @@
+{
+  "name": "friends",
+  "version": "0.0.1",
+  "profile": "serverless-0",
+  "location": "https://github.com/...",
+  "author": "",
+  "description": "",
+  "domain": "myapp-nykjf5ux.com",
+  "stages": {
+    "development": [
+      {
+        "region": "us-east-1",
+        "iamRoleArnLambda": "arn:aws:iam::158706598827:role/friends-development-r-IamRoleLambda-RZWUQ3LJEH5P",
+        "regionBucket": "serverless.useast1.myapp-nykjf5ux.com"
+      }
+    ]
+  },
+  "custom": {},
+  "plugins": []
+}

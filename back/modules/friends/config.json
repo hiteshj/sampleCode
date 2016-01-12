@@ -1,0 +1,6 @@
+{
+  "AWS_ACCOUNT_ID": "123412341234",
+  "REGION": "us-east-1",
+  "DDB_USER_TABLE": "user",
+  "DDB_FRIEND_TABLE":"friends"
+}
